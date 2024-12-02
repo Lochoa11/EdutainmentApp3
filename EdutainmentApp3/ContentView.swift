@@ -131,7 +131,7 @@ struct ContentView: View {
     }
     
     func nextQuestion() {
-        if positionInArray < randomNumbers.count {
+        if positionInArray < randomNumbers.count - 1 {
             positionInArray += 1
         }
         answer = nil
