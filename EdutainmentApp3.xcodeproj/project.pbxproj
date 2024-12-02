@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		94D775D72CFD5A5100577838 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 94D775D62CFD5A5100577838 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		94D775AB2CF2C0AA00577838 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		94D7759A2CF2C0AA00577838 /* EdutainmentApp3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EdutainmentApp3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D775AA2CF2C0AA00577838 /* EdutainmentApp3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EdutainmentApp3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94D775B42CF2C0AB00577838 /* EdutainmentApp3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EdutainmentApp3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		94D775D62CFD5A5100577838 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				94D775AD2CF2C0AA00577838 /* EdutainmentApp3Tests */,
 				94D775B72CF2C0AB00577838 /* EdutainmentApp3UITests */,
 				94D7759B2CF2C0AA00577838 /* Products */,
+				94D775D62CFD5A5100577838 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94D775D72CFD5A5100577838 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
